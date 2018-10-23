@@ -1,0 +1,8 @@
+swarm:
+  datasources:
+    data-sources:
+      NamesDS:
+        driver-name: h2
+        connection-url: 'jdbc:h2:mem:'
+        user-name: sa
+        password: sa
