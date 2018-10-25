@@ -35,6 +35,11 @@
       <plugin>
         <groupId>io.thorntail</groupId>
         <artifactId>thorntail-maven-plugin</artifactId>
+        <configuration>
+          <properties>
+            <swarm.port.offset>1</swarm.port.offset>
+          </properties>
+        </configuration>
       </plugin>
     </plugins>
   </build>

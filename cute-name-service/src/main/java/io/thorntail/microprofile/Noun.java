@@ -1,4 +1,4 @@
-package io.thorntail.servicemesh;
+package io.thorntail.microprofile;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

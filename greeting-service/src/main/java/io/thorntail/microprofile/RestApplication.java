@@ -1,4 +1,4 @@
-package io.thorntail.servicemesh;
+package io.thorntail.microprofile;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

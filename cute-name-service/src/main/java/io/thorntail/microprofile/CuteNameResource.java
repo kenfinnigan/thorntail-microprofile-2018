@@ -1,4 +1,4 @@
-package io.thorntail.servicemesh;
+package io.thorntail.microprofile;
 
 import javax.annotation.PostConstruct;
 import javax.enterprise.context.ApplicationScoped;
