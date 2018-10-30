@@ -6,3 +6,8 @@ swarm:
         connection-url: 'jdbc:h2:mem:'
         user-name: sa
         password: sa
+  jaeger:
+    service-name: 'cute-name'
+    sampler-type: 'const'
+    sampler-parameter: 1
+    remote-reporter-http-endpoint: 'http://localhost:14268/api/traces'

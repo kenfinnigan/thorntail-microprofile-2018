@@ -23,6 +23,10 @@
       <groupId>io.thorntail</groupId>
       <artifactId>microprofile</artifactId>
     </dependency>
+    <dependency>
+      <groupId>io.thorntail</groupId>
+      <artifactId>jaeger</artifactId>
+    </dependency>
 
     <dependency>
       <groupId>com.h2database</groupId>
